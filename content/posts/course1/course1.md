@@ -3,7 +3,7 @@ title: ROS BASICS
 path: "/course1"
 tags: ["Course1"]
 featuredImage: "./ros_basics.jpg"
-excerpt: ROS BASICS.
+excerpt: Basics concepts about ROS.
 ---
 
 ## Tittle 1

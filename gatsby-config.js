@@ -15,7 +15,7 @@ module.exports = {
       },
       {
         name: 'Courses',
-        path: '/page'
+        path: '/courses'
       },
       {
         name: 'Contact',
