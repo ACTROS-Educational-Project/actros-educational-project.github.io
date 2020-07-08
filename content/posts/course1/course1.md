@@ -1,5 +1,5 @@
 ---
-title: ROS BASICS
+title: "ROS BASICS"
 path: "/course1"
 tags: ["Course1"]
 featuredImage: "./ros_basics.jpg"
