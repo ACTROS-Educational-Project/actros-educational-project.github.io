@@ -13,9 +13,9 @@ module.exports = (themeOptions) => {
 
   return {
     siteMetadata: {
-      title: `nehalem`,
+      title: `ATCROS`,
       siteUrl: `https://nehalem.netlify.com`,
-      description: `A Gatsby theme for %TOPICS%`,
+      description: `Center for Advanced Training on Robotics and Open Source`,
       topics: [
         `bloggers`,
         `geeks`,
@@ -24,24 +24,8 @@ module.exports = (themeOptions) => {
         `everyone`
       ],
       menu: [
-        {
-          name: 'Home',
-          path: '/'
-        },
-        {
-          name: 'About',
-          path: '/about'
-        },
       ],
       footerMenu: [
-        {
-          name: 'RSS',
-          path: '/rss.xml'
-        },
-        {
-          name: 'Sitemap',
-          path: '/sitemap.xml'
-        }
       ],
       search: true,
       author: {
