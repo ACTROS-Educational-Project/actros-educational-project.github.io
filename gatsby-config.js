@@ -36,11 +36,11 @@ module.exports = {
         <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
       social: {
         facebook: ``,
-        twitter: `https://twitter.com/nehalist`,
-        linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
+        twitter: `https://twitter.com/IntellRobotLabs`,
+        linkedin: ``,
         instagram: ``,
         youtube: ``,
-        github: `https://github.com/nehalist`,
+        github: `https://github.com/IntelligentRoboticsLabs`,
         twitch: ``
       }
     }
