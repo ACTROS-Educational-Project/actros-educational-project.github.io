@@ -3,62 +3,59 @@ module.exports = (themeOptions) => {
   const contentPath      = themeOptions.contentPath || 'content';
   const manifest         = themeOptions.manifest ? themeOptions.manifest : {
     name: `nehalem - A Gatsby theme`,
-    short_name: `ACTROS`,
+    short_name: `nehalem`,
     start_url: `/`,
     background_color: `#a4cbb8`,
     theme_color: `#a4cbb8`,
     display: `minimal-ui`,
-    icon: `${__dirname}/assets/intellrobotslab_icon.png`
+    icon: `${__dirname}/content/assets/images/intellrobotslab_icon.png`
   };
 
   return {
     siteMetadata: {
-      title: `ACTROS`,
-      siteUrl: `https://actros-educational-project.github.io`,
-      description: `Center for Advanced Training on Robotics and %TOPICS%`,
+      title: `nehalem`,
+      siteUrl: `https://nehalem.netlify.com`,
+      description: `A Gatsby theme for %TOPICS%`,
       topics: [
-        'Open Source',
-        'Navigation',
-        'Deep Learning',
-        'Perception',
+        `bloggers`,
+        `geeks`,
+        `nerds`,
+        `people`,
+        `everyone`
       ],
       menu: [
         {
           name: 'Home',
           path: '/'
         },
-        /*{
-          name: 'About',
-          path: '/about'
-        },*/
         {
-          name: 'Courses',
-          path: '/courses'
+          name: 'Example',
+          path: '/page'
         },
-
-        {
-          name: 'Contact',
-          path: '/contact'
-        }
       ],
       footerMenu: [
         {
-          name: 'Courses',
-          path: '/courses'
+          name: 'RSS',
+          path: '/rss.xml'
         },
+        {
+          name: 'Sitemap',
+          path: '/sitemap.xml'
+        }
       ],
       search: true,
       author: {
-        name: `ACTROS`,
-        description: `The project <a href="https://www.rosin-project.eu/ftp/center-for-advanced-training-on-robotics-and-open-source-act-ros-education-project" target="_blank"><strong>“Center for Advanced Training on Robotics and Open Source (ACTROS)”</strong></a> aims to create a reference center in mobile robotics training using Open Source, mainly ROS and ROS2. This center is within the <a href="https://www.urjc.es/" target="_blank"><strong>Rey Juan Carlos University</strong></a>, which is currently a national benchmark in ROS training, both by university courses taught since 2015 (Advanced University Course in Robot Programming with ROS) and by the creation of a Degree in Software Robotics, which is a pioneer in our country because of its focus on software development for robots.
-        This project aims to equip the existing laboratory robotics robots reference in the field (Pepper, Tiago, Kobuki, etc.) to carry out regularly run courses both for advanced students, and professionals who want to train in software development for robots. This project has received funding from the European Union’s Horizon 2020 research and innovation programme under grant agreement No. 732287.`,
+        name: `nehalem`,
+        description: `I'm <strong>nehalem</strong>, a Gatsby theme by
+        <a href="https://nehalist.io" rel="noopener" target="_blank">nehalist.io</a>. If you like what you see feel free to give a
+        <a href="https://github.com/nehalist/gatsby-theme-nehalem" rel="noopener" target="_blank">star on GitHub!</a>`,
         social: {
           facebook: ``,
-          twitter: `https://twitter.com/IntellRobotLabs`,
-          linkedin: ``,
+          twitter: `https://twitter.com/nehalist`,
+          linkedin: `https://www.linkedin.com/in/kevin-hirczy-7a9377106/`,
           instagram: ``,
           youtube: ``,
-          github: `https://github.com/ACTROS-Educational-Project`,
+          github: `https://github.com/nehalist`,
           twitch: ``
         }
       }
@@ -85,7 +82,7 @@ module.exports = (themeOptions) => {
         resolve: `gatsby-source-filesystem`,
         options: {
           name: `themeAssets`,
-          path: `${__dirname}/assets`
+          path: `${__dirname}/content/assets/images`
         }
       },
       {
