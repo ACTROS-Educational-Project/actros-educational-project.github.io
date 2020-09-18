@@ -1,6 +1,6 @@
 ---
 title: About Us
-path: "/about"
+path: "/about_old"
 tags: ["About"]
 excerpt: Sample courses page.
 ---
