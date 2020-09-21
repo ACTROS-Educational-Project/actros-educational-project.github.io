@@ -41,7 +41,7 @@ main p {
 
 .definition p {
   font-size:20px;
-  color:#bdb8b8;
+  color:#d48282;
 }
 
 .name p {
@@ -61,7 +61,8 @@ main p {
 
 .subcomment p {
   font-size: 20px;
-  color: #bdb8b8;
+  color: #d48282;
+  margin: 0px;
 }
 
 iframe {
