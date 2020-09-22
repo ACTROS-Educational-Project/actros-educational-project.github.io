@@ -9,7 +9,7 @@ import Lorena from "../../../../../content/assets/images/lorena.jpg"
 import Fernando from "../../../../../content/assets/images/fernando.jpg"
 
 function mouseOverEvent(e) {
-  e.target.style.width = '70%';
+  e.target.style.width = '55%';
 }
 function mouseOutEvent(e) {
   e.target.style.width = '50%';
@@ -19,6 +19,7 @@ export const About = () => (
   <Main>
     <script src="./script.js" type="text/javascript" />
     <MainDescription>
+      <br />
       <Header>TEAM</Header>
       <img src={IntellRobotsLabTeam} width="80%" alt=""/>
       <div class="description">
@@ -31,7 +32,7 @@ export const About = () => (
       </div>
       <div class="subcomment">
         <p>
-          <i>Know the people who make this possible.</i>
+          <strong><i>Know the people who make this possible.</i></strong>
         </p>
       </div>
     </MainDescription>

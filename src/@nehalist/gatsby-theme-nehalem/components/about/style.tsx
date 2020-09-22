@@ -4,8 +4,11 @@ import Theme from "../../styles/theme";
 
 export const Main = styled.article`
   text-align: center;
-  max-width: 100%;
+  max-width: 80%;
   position: relative;
+  margin-top: 0px;
+  margin-left: auto;
+  margin-right: auto;
 `;
 
 export const Header = styled.h1`
@@ -19,12 +22,15 @@ export const MainDescription = styled.article`
   max-width: 60%;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 0px;
+  padding: 0px;
 `;
 
 export const Grid = styled.article`
-  background: #fff;
   margin-bottom: 10px;
-  max-width: 80%;
+  margin-top: 0px;
+  padding: 0px;
+  max-width: 100%;
   margin-left: auto;
   margin-right: auto;
 `;
@@ -34,6 +40,8 @@ export const GridImg = styled.article`
   margin: 10px;
   display: inline-block;
   position: relative;
+  margin: 0px;
+  padding: 0px;
 `;
 
 export const GridImgImage = styled.article`
@@ -46,7 +54,7 @@ export const GridImgImage = styled.article`
 export const Map = styled.article`
 background: #fff;
 margin-bottom: 10px;
-max-width: 80%;
+max-width: 100%;
 margin-left: auto;
 margin-right: auto;
 `;
