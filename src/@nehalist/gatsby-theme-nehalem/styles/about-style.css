@@ -42,10 +42,12 @@ main p {
 .definition p {
   font-size:20px;
   color:#d48282;
+  margin: 5px;
 }
 
 .name p {
-  font-size:24px
+  font-size:24px;
+  margin: 0px;
 }
 
 .description {

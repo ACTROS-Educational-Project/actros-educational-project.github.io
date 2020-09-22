@@ -9,7 +9,6 @@ export const Main = styled.article`
   margin-top: 0px;
   margin-left: auto;
   margin-right: auto;
-  background: #c2c0c0;
 `;
 
 export const Header = styled.h1`
