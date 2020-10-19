@@ -1,122 +1,122 @@
 ---
-title: ROS Course
+title: Programación de Robots con ROS
 path: "/ros"
 tags: ["ROS"]
 featuredImage: "./ros.jpg"
-excerpt: ROS (Robot Operating System) is the current standard in the area of ​​Robotics. So much so that it is essential in research in this area, and an essential requirement to access any job position related to Robotics.
-created: 2020-10-17
+excerpt: ROS (Robot Operating System) es el estándar actual en el área de la Robótica. Tanto es así que es esencial en la investigación en esta área, y un requisito imprescindible para acceder al cualquier puesto laboral relacionado con la Robótica.
+created: 2020-07-09
+updated: 2020-10-19
 ---
 
-## Curriculum Name
+## Nombre del Plan de Estudios
 
-Higher University Course in Robot Programming with ROS
+Curso Superior Universitario en Programación de Robots con ROS
 
-## Information
+## Información
 
-### Basic Information
+### Información Básica
 
-#### Presentation:
+#### Presentación:
 
-ROS (Robot Operating System) is the current standard in the area of ​​Robotics. So much so that it is essential in research in this area, and an essential requirement to access any job position related to Robotics. The learning process in ROS using the resources available on the web has a very high learning curve in the first months, so adequate training is required to guide you in this process. This course aims to respond to this demand, with an approach that combines theoretical explanations with practical exercises with real and simulated robots.
+ROS (Robot Operating System) es el estándar actual en el área de la Robótica. Tanto es así que es esencial en la investigación en esta área, y un requisito imprescindible para acceder al cualquier puesto laboral relacionado con la Robótica. El proceso de aprendizaje en ROS usando los recursos disponibles en la web tiene una curva de aprendizaje muy alta en los primeros meses, por lo que se requiere de una formación adecuada que te guíe en este proceso.Este curso pretende dar respuesta a esta demanda, con un enfoque que combina explicaciones teóricas con ejercicios prácticos con robots reales y simulados.Nuestro grupo de Robótica es pionero en esta tecnología en España, realizando colaboraciones a este software, y siendo incluido como asesores en varios proyectos europeos como expertos en esta tecnología.
 
-Our Robotics group is a pioneer in this technology in Spain, collaborating with this software, and being included as advisers in several European projects as experts in this technology.
+#### Objetivos:
 
-#### Targets:
+Este curso es una introducción a este entorno de programación de robots, cubriendo todos los conceptos y temas necesario para poder realizar proyectos complejos con robots.
 
-This course provides an introduction to this robots programming environment, covering all the necessary concepts and topics to carry out complex projects with robots
+Los objetivos del curso son:
 
-The course targets are:
+* Que el alumno sea capaz al finalizar el curso de abordar un proyecto en ROS, siendo consciente de las herramientas, procedimientos y buenas prácticas en esta tecnología.
 
-* That the student is able, at the end of the course, to tackle a project using ROS, be aware of the tools, procedures and good practices in this technology.
+* Que el alumno obtenga una visión general de los problemas que se presenta en Robótica Móvil y las soluciones propuestas en ROS.
 
-* That the student gets a general vision of the problems that exist in the Mobile Robotics and the solutions proposed by ROS.
+### Programa (Plan de Estudios)
 
-### Program (Studying Plan)
+* **Conceptos generales de ROS:** En este apartado se abordarán los conceptos fundamentales de ROS: Historia y evolución, Comunidad ROS, Documentación, uso del workspace, Análisis de código fuente, compilación y ejecución de nodos ROS, comandos básicos, depuración, modelado de sensores y actuadores, grafo de computación ysistema de transformaciones geométricas.
 
-* **General Concepts About ROS:** This section will approach the main concepts of ROS: History and evolution, ROS Community, Documentation, use of the workspace, Source code analysis, compilation and execution of ROS nodes, basic commands, debugging, modeling of sensors and actuators, computational graph and the geometric transformation system.
+* **Percepción en ROS:** Acceso a sensores (cámara, cámara 3D-RGBD, láser) y su uso con las librerías de referencia OpenCV y PCL. Creación de comportamientos básicos para un robot móvil usando esta fuente de información.
 
-* **Perception with ROS:** Access to the sensors (camera, 3D-RGBD camera, laser, etc) and their usage with the OpenCV and PCL reference libraries. Basic behaviors creation for a mobile robot using this information source.
+* **Navegación en ROS:** Configuración, mapeado y puesta en marcha del sistema de navegación en ROS en un robot móvil.
 
-* **Navigation with ROS:** Configuring, mapping and start up of the navigation system with ROS in a mobile robot.
+* **Complementos de ROS:** ROS en Arduino y Raspberry. Introducción a la manipulación en ROS. Herramientas y editores para desarrollador.
 
-* **ROS Complements:** ROS in Arduino and Raspberry. Introduction to the manipulation with ROS. Tools and code editors for the developer.
+### Destinatarios
 
-### Course Receivers
+Se requiere un título de Ingeniero. En caso de no contar esta formación, se puede aportar experiencia profesional en el campo de la Ingeniería. Conocimientos de programación en Python/C++ y entorno Linux.En el caso de que el número de solicitudes supere el de plazas ofertadas se realizará una selección en función de los siguientes criterios: **Entrevista personal**.
 
-An Engineer degree is required. If you do not have this training, you can provide professional experience in the field of Engineering. Programming knowledge in Python / C ++ environment and Linux. In the event that the number of applications exceeds the number of places offered, a selection will be made based on the following criteria: **Personal interview**.
+* **Nº de Plazas:** 12.
 
-* **Number of Places:** 12.
+### Dirección Académica y profesorado
 
-### Academic Direction and Faculty
-
-* **Director and main professor of the course:** Dr. Francisco Martín Rico.
+* **Director y profesor principal del curso:** Dr. Francisco Martín Rico.
 > francisco.rico@urjc.es
 
-There will be 4 professors more by support to be able si assist in a more individual way to the students:
+Habrá 4 profesores más de apoyo para asistir de manera individualizada a los alumnos:
 
 * Dr. José Miguel Guerrero Hernández.
 * Dr. Manuel Fernández-Carmona.
 * Jonatan Ginés Clavero
 * Lorena Bajo Rebollo.
 
-### Duration and Development
+### Duración y Desarrollo
 
-* **Modality:** face-to-face.
-* **Number of Credits:** 1.6.
-* **Hours:** 16.
-* **Place:** Robotics Laboratory (3104) ETSIT, Fuenlabrada's Campus (URJC).
-* **Timetable:** 17:00-21:00.
-* **Beginning and Finish Dates (month/day/year):**
-    * Monday 11/16/2020
-    * Wednesday 11/18/2020
-    * Friday 11/20/2020
-    * Monday 11/23/2020
+* **Modalidad:** Presencial.
+* **Nº de Créditos:** 1.6.
+* **Horas Presenciales:** 16.
+* **Lugar de Impartición:** Laboratorio de Robótica (3104) ETSIT, Campus de Fuenlabrada.
+* **Horario:** 17:00-21:00.
+* **Fecha de inicio y de finalización:**
+    
+    El curso se realizará los siguientes días:
 
-## Pre-registration and Enrollment
+    * Lunes 16/11/2020
+    * Miércoles 18/11/2020
+    * Viernes 20/11/2020
+    * Lunes 23/11/2020
 
-### Reservation of Place and Registration
+## Preinscripción y Matrícula
 
-* **Pre-registration Period (mont/day/year):**  10/19/2020 - 10/06/2020
-* **Enrollment Period (month/day/year):** 11/09/2020 - 11/13/2020
-* **Title Price:** 800 €
-* **Pre-Registration:** 200 €. This amount is included in the total cost of the course and will be refunded in the event that your academic application is not accepted. If once the student's application is accepted, the enrollment is not formalized, the amount deposited as pre-enrollment will not be returned.
+### Reserva de Plaza y Matrícula
 
-The beginning of the course is conditionalon the minimum number of students enrolled.
+* **Plazo de Preinscripción:**  19/10/2020 - 6/10/2020
+* **Plazo de Matrícula:** 9/11/2020 - 13/11/2020
+* **Precio de Título:** 800 €
+* **Posibilidad de Beca:**
+* **Preinscripción:** 200 €. Esta cantidad está incluida en el coste total del curso y se devolverá en el caso de no ser admitida su solicitud académica. Si una vez admitida la solicitud del alumno no formalizara la matrícula, no se devolverá la cantidad depositada en concepto de preinscripción.
 
-### Documentation to be attached, Forms and Place of Delivery
+El inicio del curso queda condicionado al número mínimo de alumnos matriculados.
 
-Applicants will submit all the scanned documentation in the allowed formats using the electronic application of self-registration when making the application for admission to their own degrees. The declaration of the person responsible for the veracity of the data provided in digital format must be included in their request.
+### Documentación a Adjuntar, Formas y Lugar de Entrega
 
-At any time, both the Program Management and the Proprietary Titles Service may request applicants to present such certified/ollated documentation through the General Registry located on the Móstoles Campus, or in any of the registries assistants located in the different Campus of the Rey Juan Carlos University, or by sending it through Certified Mail to: Rey Juan Carlos University. General Registry. Avda. Tulipán s / n. 28933. Móstoles. Madrid.
+Los/as solicitantes presentarán toda la documentación escaneada, en los formatos permitidos a través de laaplicación telemática de autopreinscripción a la hora de realizar la solicitud de admisión en los títulos propios. Deberán adjuntar obligatoriamente en su solicitud la declaración de responsable de veracidad de los datos aportados en formato digital.
 
-The student is responsible for the veracity and correctness of the data provided, exonerating to the Rey Juan Carlos University of any responsibility and guaranteeing and responding to its accuracy, validity and authenticity.
+En cualquier momento, tanto la Dirección del programa como el Servicio de Títulos Propios podrán solicitar a los/as solicitantes, la presentación de dicha documentación compulsada/cotejada a través del Registro General, situado en el Campus de Móstoles, o en cualquiera de los registros auxiliares situados en los diferentes Campus de la Universidad Rey Juan Carlos, o enviándolo a través de Correo Certificado a: Universidad Rey Juan Carlos. Registro General. Avda. Tulipán s/n. 28933. Móstoles. Madrid.
 
-#### Required Documentation:
+El/la alumno/a es responsable de la veracidad y corrección de los datos facilitados, exonerando a la Universidad Rey Juan Carlos de cualquier responsabilidad y garantizando y respondiendo de su exactitud, vigencia y autenticidad.
 
-Students with a degree obtained from a Spanish university or a Higher Education Institution belonging to another State that is a member of the European Higher Education Area that enables the access to postgraduate degrees must present the following documentation:
+#### Documentación Requerida:
 
-* National Document or equivalent.
-* University degree of the studies that give you access to the requested postgraduate degree.
+Los/as estudiantes con titulación obtenida en una universidad española o una Institución de Educación Superior perteneciente a otro Estado integrante del Espacio Europeo de Educación Superior que faculte en el mismo par el acceso a enseñanzas de títulos propios de postgrado deberán presentar la siguiente documentación:
+
+* Documento Nacional de Identidad o equivalente.
+* Título Universitario de los estudios que le dan acceso al postgrado solicitado.
 * Curriculum Vitae.
-* Responsible declaration of veracity of the data provided in digital format.
-* Any other document that the Director of the Proprietary Title specifically requires for its acceptance.
+* Declaración responsable de veracidad de los datos aportados en formato digital.
+* Cualquier otro documento que exija el Director del Título Propio específicamente para su aceptación.
 
-Students with a foreign degree must present the following documentation:
+Los/as estudiantes con titulación extranjera deberán presentar la siguiente documentación:
 
-* Passport or Residence Card.
-* Foreign Higher Education Title (Graduate, Graduate, Architect, Engineer Doctor ...) that give access to studies of own postgraduate degrees.
-* Certificate that proves that the studies carried out give access to an Official Postgraduate Degree in your country of origin, issued by the University of origin.
+* Pasaporte o Tarjeta de Residencia.
+* Título de Educación Superior extranjero (Graduado, Licenciado, Arquitecto, Ingeniero Doctor...) que den acceso a estudios de títulos propios de postgrado.
+* Certificado que acredite que los estudios realizados dan acceso a un Postgrado Oficial en su país de origen, expedido por la Universidad de origen
 * Curriculum Vitae.
-* Declaration of the person responsible for the veracity of the data provided in digital format.
-* Any other document that the Director of the Proprietary Title specifically requires for its acceptance.
+* Declaración de responsable de veracidad de los datos aportados en formato digital.
+* Cualquier otro documento que exija el Director del Título Propio específicamente para su aceptación.
 
-Applicants with studies completed at foreign University Centers may be requested at any time a certificate of verification of these studies and centers, issued by an authorized Institution.
-
-All the documentation provided must be legalized in accordance with Spanish legislation and translated by an official translator
+A los/as solicitantes con estudios cursados en Centros Universitarios extranjeros se les podrá solicitar en cualquier momento un certificado de verificación de estos estudios y centros, expedido por una Institución autorizada.Toda la documentación aportada deberá estar legalizada conforme a la legislación española y traducida por traductor oficial
 
 <a href="https://www.urjc.es" target=”_blank”>www.urjc.es</a>
 
 ## COVID19 Plan
 
-That course will be done in a presential way, adopting all security measures that the current COVID19 pandemic requires, social distance and masks.
-
+Este curso será impartido de forma presencial, adoptando todas las medidas de seguiridad que la actual pandemia provocada por el virus COVID19 exige, tales como mantener la distancia social y el uso de amscarillas en todo momento.

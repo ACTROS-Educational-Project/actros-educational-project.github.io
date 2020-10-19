@@ -1,17 +1,18 @@
 ---
-title: Deep Learning
+title: Aplicación de Deep Learning en Robots usando ROS/ROS2
 path: "/deep_learning"
 tags: ["Deep Learning"]
 featuredImage: "./deep_learning.jpeg"
-excerpt: Deep Learning is one of the most popular areas in the robotics field. Researchs in this area have got awesome results in fields like Natural Language Processing and Computer Vision.
-created: 2020-07-06
+excerpt: El Deep Learning es una de las áreas más populares en el campo de la robótica. Las investigaciones en esta área han obtenido resultados asombrosos en campos como Procesamiento del lenguaje natural y Visión por computadora
+created: 2020-07-05
+updated: 2020-10-19
 ---
 
-## Description
+## Descripción
 
-Deep Learning is one of the most popular areas in the robotics field. Researchs in this area have got awesome results in fields like **Natural Language Processing** and **Computer Vision** using knowledge methods based on how human nervous system works, using differents stages that constitute different processing levels whose purpose is the characteristics extraction of specific objects.
+El Deep Learning es una de las áreas más populares en el campo de la robótica. Las investigaciones en esta área han obtenido resultados asombrosos en campos como **Procesamiento del lenguaje natural** y **Visión por computadora** utilizando métodos de conocimiento basados ​​en cómo funciona el sistema nervioso humano, utilizando diferentes etapas que constituyen diferentes niveles de procesamiento cuyo propósito es la extracción de características. de objetos específicos.
 
-## Course Targets
+## Objetivos del Curso
 
 * Mathematics main concepts of Deep Learning systems.
 
