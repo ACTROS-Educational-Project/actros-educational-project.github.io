@@ -1,25 +1,25 @@
 ---
-title: ROS2 Course
+title: Programación de Robots con ROS2
 path: "/ros2"
 tags: ["ROS2"]
 featuredImage: "./ros2.jpg"
-excerpt: With the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
-created: 2020-07-09
+excerpt: Con el lanzamiento de ROS2, se plantea un nuevo sistema con características mucho más avanzadas y será el nuevo estándar en el desarrollo de software robótico en la industria.
+created: 2020-07-08
 updated: 2020-07-09
 ---
 
-## Description
+## Descripción
 
-ROS (Robot Operating System), today, is the standard in the robotics area. That is why research in this area is essential and it is an very important requirement to be able to access the working world in any job related to robotics. Now, with the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
+ROS (Robot Operating System), hoy en día, es el estándar en el área de robótica. Por eso la investigación en esta área es fundamental y es un requisito muy importante para poder acceder al mundo laboral en cualquier puesto relacionado con la robótica. Ahora, con el lanzamiento de ROS2, se plantea un nuevo sistema con características mucho más avanzadas y será el nuevo estándar en el desarrollo de software robótico en la industria.
 
-## Course Targets
+## Objetivos del Curso
 
-* Differences between ROS and ROS2
+* Diferencias entre ROS y ROS2.
 
-* Main concepts about ROS2
+* Conceptos principales de ROS2.
 
-* ROS2's main libraries and tools.
+* Principales herramientas y librerías de ROS2.
 
-* ROS2 deployment on different devices.
+* Despliegue de ROS2 en diferentes dispositivos.
 
-* ROS2 Security.
+* Seguridad en ROS2.

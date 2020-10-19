@@ -1,45 +1,45 @@
 ---
-title: Courses
+title: Cursos
 path: "/courses"
-tags: ["Courses"]
+tags: ["Cursos"]
 excerpt: Sample courses page.
 ---
 
-# ROS Course
+# Programación de Robots con ROS
 
-Robot Operating System (ROS) Is the most used software around the world for robot programming. Since its beginnings, in 2006, its usage has been extended unstoppably. Nowadays, it is the standard in the robotic world.
+ROS (Robot Operating System) es el estándar actual en el área de la Robótica. Tanto es así que es esencial en la investigación en esta área, y un requisito imprescindible para acceder al cualquier puesto laboral relacionado con la Robótica.
 
 [![Image](../posts/ros/ros.jpg)](/ros)
 
 <br><br>
 
-# ROS2 Course
+# Programación de Robots con ROS2
 
-With the ROS2 release, a new system with much more advanced characteristics is raised and it will be the new standard in robotic software development in the industry.
+Con el lanzamiento de ROS2, se plantea un nuevo sistema con características mucho más avanzadas y será el nuevo estándar en el desarrollo de software robótico en la industria.
 
 [![Image](../posts/ros2/ros2_link.png)](/ros2)
 
 <br><br>
 
-# Navigation Course
+# Navegación de Robots con ROS y ROS2
 
-The ROS/ROS2 navigation stack is one of its main packages and it allow to give a robot basic capacities of movement in an easy way.
+La pila de navegación ROS / ROS2 es uno de sus paquetes principales y permite dotar a un robot de capacidades básicas de movimiento de forma sencilla.
 
 [![Image](../posts/navigation/navigation.jpg)](/navigation)
 
 <br><br>
 
-# Perception Course
+# Percepción de Robots con ROS y ROS2
 
-Sensors are a data source very important for robots. Because of them, they can recognize its environment and get information very valious about it.
+Los sensores son una fuente de datos muy importante para los robots. Gracias a ellos, pueden reconocer su entorno y obtener información muy valiosa sobre él.
 
 [![Image](../posts/perception/perception.png)](/perception)
 
 <br><br>
 
-# Deep Learning Course
+# Aplicación de Deep Learning en Robots usando ROS/ROS2
 
-Deep Learning is one of the most popular areas in the robotics field. Researchs in this area have got awesome results in fields like Natural Language Processing and Computer Vision.
+El Deep Learning es una de las áreas más populares en el campo de la robótica. Las investigaciones en esta área han obtenido resultados asombrosos en campos como Procesamiento del lenguaje natural y Visión por computadora
 
 [![Image](../posts/deep_learning/deep_learning.jpeg)](/deep_learning)
 

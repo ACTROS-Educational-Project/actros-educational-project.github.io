@@ -1,30 +1,31 @@
 ---
-title: Perception
+title: Percepción de Robots con ROS y ROS2
 path: "/perception"
-tags: ["Perception"]
+tags: ["Percepcion"]
 featuredImage: "./perception.png"
-excerpt: Sensors are a data source very important for robots. Because of them, they can recognize its environment and get information very valious about it.
-created: 2020-07-07
+excerpt: Los sensores son una fuente de datos muy importante para los robots. Gracias a ellos, pueden reconocer su entorno y obtener información muy valiosa sobre él.
+created: 2020-07-06
+updated: 2020-10-19
 ---
 
-## Description
+## Descripción
 
-Sensors are a data source very important for robots. Because of them, they can recognize its environment and get information very valious about it.
+Los sensores son una fuente de datos muy importante para los robots. Gracias a ellos, pueden reconocer su entorno y obtener información muy valiosa sobre él.
 
-Specifically, the camera is the most complex sensor that exist and, at the same time, it provide a great flow of data. Thank of that, useful algorithms can be elaborated for robot environment recognition. For example, **Neural Networks**.
+En concreto, la cámara es el sensor más complejo que existe y, al mismo tiempo, proporciona un gran flujo de datos. Gracias a eso, se pueden elaborar algoritmos útiles para el reconocimiento del entorno del robot. Por ejemplo, **Redes Neuronales**.
 
-## Course Targets
+## Objetivos del Curso
 
-* Most common robot sensors types.
+* Tipos de sensores más counes en robóticas.
 
-* Getting data by the sensors.
+* Obtención de datos de los sensores.
 
-* 2D processing of cameras information with OpenCV.
+* Procesamiento 2D de imágenes proporcionadas por cámaras con OpenCV.
 
-* 3D sensorial data management.
+* Gestión de datos proporcionados por sensores 3D.
 
-* 3D processing of RGBD cameras information with **PCL** (Point Cloud Library).
+* Procesamiento 3D de la información proporcionada por cámaras RGBD con **PCL** (Point Cloud Library).
 
-* Trials with simulated and real robots.
+* Pruebas con robots simulados y reales.
 
 <iframe width="100%" height="485" src="https://www.youtube.com/embed/262S-Z1o4tw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

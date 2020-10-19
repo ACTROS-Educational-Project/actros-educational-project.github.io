@@ -1,26 +1,27 @@
 ---
-title: Navigation Course
+title: Navegación de Robots con ROS y ROS2
 path: "/navigation"
-tags: ["Navigation"]
+tags: ["Navegacion"]
 featuredImage: "./navigation.jpg"
-excerpt: The ROS/ROS2 navigation stack is one of its main packages and it allow to give a robot basic capacities of movement in an easy way
-created: 2020-07-08
+excerpt: La pila de navegación ROS / ROS2 es uno de sus paquetes principales y permite dotar a un robot de capacidades básicas de movimiento de forma sencilla.
+created: 2020-07-07
+updated: 2020-10-19
 ---
 
-## Description
+## Descripción
 
-The ROS/ROS2 navigation stack is one of its main packages and it allow to give a robot basic capacities of movement in an easy way. Also, the navigation package provide us a high flexibility, making it perfect for ensuring a fast deployment of the robot in an industrial or domestic environment.
+La pila de navegación ROS / ROS2 es uno de sus paquetes principales y permite dotar a un robot de capacidades básicas de movimiento de forma sencilla. Además, el paquete de navegación nos proporciona una alta flexibilidad, lo que lo hace perfecto para garantizar un rápido despliegue del robot en un entorno industrial o doméstico.
 
-## Course Targets
+## Objetivos del Curso
 
-* Main concepts about ROS/ROS2 navigation.
+* Principales conceptos sobre navegación en ROS/ROS2.
 
-* Maps creation, SLAM.
+* Creación de mapas, SLAM.
 
-* Localization system knowledge.
+* Localización y sistema de conocimiento.
 
-* Parameters usage for adopting the system to the environment.
+* Utilización de los parámetros para adaptar el sistema al entorno.
 
-* Trials on simulated and real robots.
+* Pruebas en robots simulados y reales.
 
 <iframe width="100%" height="485" src="https://www.youtube.com/embed/OklxMhdDfe0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
