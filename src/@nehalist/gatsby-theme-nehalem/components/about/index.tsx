@@ -20,19 +20,19 @@ export const About = () => (
     <script src="./script.js" type="text/javascript" />
     <MainDescription>
       <br />
-      <Header>TEAM</Header>
+      <Header>EQUIPO</Header>
       <img src={IntellRobotsLabTeam} width="80%" alt=""/>
       <div class="description">
         <p>
           <br></br>
-          We are <strong>Intelligent Robotics Lab</strong>, a team of researchers in Robotics
-          from Rey Juan Carlos University and University of León experienced in
-          participating in several Robotics Competitions.
+          Somos <strong>Intelligent Robotics Lab</strong>, un equipo de investigadores en robótica
+          de la Universidad Rey Juan Carlos y la Universidad de León con experiencia
+          participando en varios Concursos de Robótica.
         </p>
       </div>
       <div class="subcomment">
         <p>
-          <strong><i>Know the people who make this possible.</i></strong>
+          <strong><i>Conoce a las personas que hacen esto posible.</i></strong>
         </p>
       </div>
     </MainDescription>
@@ -49,7 +49,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Associate Professor</strong>
+            <strong>Profesor Asociado</strong>
           </p>
         </div>
       </GridImg>
@@ -62,7 +62,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Assistant Professor</strong>
+            <strong>Profesor Asistente</strong>
           </p>
         </div>
       </GridImg>
@@ -75,7 +75,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>PhD Candidate</strong>
+            <strong>Candidato a Doctor</strong>
           </p>
         </div>
       </GridImg>
@@ -88,7 +88,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Intern</strong>
+            <strong>Becario</strong>
           </p>
         </div>
       </GridImg>
@@ -101,7 +101,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Project Engineer</strong>
+            <strong>Ingeniero de Proyectos</strong>
           </p>
         </div>
       </GridImg>
