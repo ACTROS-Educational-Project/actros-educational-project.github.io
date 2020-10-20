@@ -15,7 +15,7 @@ ROS (Robot Operating System) es el estándar actual en el área de la Robótica.
 
 # Programación de Robots con ROS2
 
-Con el lanzamiento de ROS2, se plantea un nuevo sistema con características mucho más avanzadas y será el nuevo estándar en el desarrollo de software robótico en la industria.
+ROS2 Es un rediseño completo para que sea ampliamente adoptado por empresas que requieren de características que ROS no tenía (Calidades de servicio, fiabilidad, predicibilidad, portabilidad...
 
 [![Image](../posts/ros2/ros2_link.png)](/ros2)
 
