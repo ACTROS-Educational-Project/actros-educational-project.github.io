@@ -1,7 +1,9 @@
 import React, {FunctionComponent} from "react";
-import {Nav, NavContainer, NavLink, NavMenu, NavMenuItem, NavWrapper, SearchContainer} from "./style";
+import {LangIcon, Nav, NavContainer, NavLink, NavMenu, NavMenuItem, NavWrapper, SearchContainer} from "./style";
 import {MenuItem} from "@nehalist/gatsby-theme-nehalem/src/utils/models";
 import {Search} from "@nehalist/gatsby-theme-nehalem/src/components/search";
+import SpainFlag from "../../../../../content/assets/images/spain_flag.png";
+import EnglandFlag from "../../../../../content/assets/images/england_flag.png";
 
 interface NavigationProps {
   title: string;
