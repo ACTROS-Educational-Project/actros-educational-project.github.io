@@ -25,9 +25,9 @@ export const About = () => (
       <div class="description">
         <p>
           <br></br>
-          Somos <strong>Intelligent Robotics Lab</strong>, un equipo de investigadores en robótica
-          de la Universidad Rey Juan Carlos y la Universidad de León con experiencia
-          participando en varios Concursos de Robótica.
+          Somos <strong>Intelligent Robotics Lab</strong>, un equipo de investigadores en robótica de la <strong>Universidad Rey Juan Carlos</strong> con más de 10 años de experiencia en el desarrollo 
+          de software robótico y con más de 5 años de experiencia en el uso, desarrollo y 
+          formación en ROS.
         </p>
       </div>
       <div class="subcomment">
@@ -49,7 +49,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Profesor Asociado</strong>
+            <strong>Profesor Titular</strong>
           </p>
         </div>
       </GridImg>
@@ -62,7 +62,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Profesor Asistente</strong>
+            <strong>Ayudante Doctor</strong>
           </p>
         </div>
       </GridImg>
@@ -75,7 +75,7 @@ export const About = () => (
         </div>
         <div class="definition">
           <p>
-            <strong>Candidato a Doctor</strong>
+            <strong>Investigador Pre-Doctoral</strong>
           </p>
         </div>
       </GridImg>

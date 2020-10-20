@@ -16,6 +16,7 @@ export const NavContainer = styled.div<{ dark?: boolean}>`
 export const Nav = styled(Container)`
   display: flex;
   position: relative;
+  margin-top: 0px;
 `;
 
 export const NavWrapper = styled.div`
@@ -74,7 +75,7 @@ export const SearchContainer = styled.div`
 
 export const ToggleSearchButton = styled.button`
   cursor: pointer;
-  color: #fff;
+  color: #070401;
   opacity: .8;
   background: none;
   outline: none;
