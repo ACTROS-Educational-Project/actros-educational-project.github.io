@@ -18,7 +18,9 @@ Curso Superior Universitario en Programación de Robots con ROS
 
 #### Presentación:
 
-ROS (Robot Operating System) es el estándar actual en el área de la Robótica. Tanto es así que es esencial en la investigación en esta área, y un requisito imprescindible para acceder al cualquier puesto laboral relacionado con la Robótica. El proceso de aprendizaje en ROS usando los recursos disponibles en la web tiene una curva de aprendizaje muy alta en los primeros meses, por lo que se requiere de una formación adecuada que te guíe en este proceso.Este curso pretende dar respuesta a esta demanda, con un enfoque que combina explicaciones teóricas con ejercicios prácticos con robots reales y simulados.Nuestro grupo de Robótica es pionero en esta tecnología en España, realizando colaboraciones a este software, y siendo incluido como asesores en varios proyectos europeos como expertos en esta tecnología.
+ROS (Robot Operating System) es el estándar actual en el área de la Robótica. Tanto es así que es esencial en la investigación en esta área, y un requisito imprescindible para acceder al cualquier puesto laboral relacionado con la Robótica. El proceso de aprendizaje en ROS usando los recursos disponibles en la web tiene una curva de aprendizaje muy alta en los primeros meses, por lo que se requiere de una formación adecuada que te guíe en este proceso.Este curso pretende dar respuesta a esta demanda, con un enfoque que combina explicaciones teóricas con ejercicios prácticos con robots reales y simulados.
+
+Nuestro grupo de Robótica es pionero en esta tecnología en España, realizando colaboraciones a este software, y siendo incluido como asesores en varios proyectos europeos como expertos en esta tecnología.
 
 #### Objetivos:
 
@@ -42,7 +44,9 @@ Los objetivos del curso son:
 
 ### Destinatarios
 
-Se requiere un título de Ingeniero. En caso de no contar esta formación, se puede aportar experiencia profesional en el campo de la Ingeniería. Conocimientos de programación en Python/C++ y entorno Linux.En el caso de que el número de solicitudes supere el de plazas ofertadas se realizará una selección en función de los siguientes criterios: **Entrevista personal**.
+Se requiere un título de Ingeniero. En caso de no contar esta formación, se puede aportar experiencia profesional en el campo de la Ingeniería. Conocimientos de programación en Python/C++ y entorno Linux.
+
+En el caso de que el número de solicitudes supere el de plazas ofertadas se realizará una selección en función de los siguientes criterios: **Entrevista personal**.
 
 * **Nº de Plazas:** 12.
 
@@ -120,3 +124,11 @@ A los/as solicitantes con estudios cursados en Centros Universitarios extranjero
 ## COVID19 Plan
 
 Este curso será impartido de forma presencial, adoptando todas las medidas de seguiridad que la actual pandemia provocada por el virus COVID19 exige, tales como mantener la distancia social y el uso de amscarillas en todo momento.
+
+### Contingencia
+
+En caso de imposibilidad de asistencia presencial:
+
+* El material se impartirá de manera telemática en sesiones de similar duración y horario a través de la plataforma Teams o similar.
+
+* Se usará el simulador de robot Gazebo.
