@@ -48,7 +48,7 @@ Los objetivos del curso son:
 
 ### Destinatarios
 
-Se requiere un título de Ingeniero. En caso de no contar esta formación, se puede aportar experiencia profesional en el campo de la Ingeniería. Conocimientos de programación en Python/C++ y entorno Linux.Se recomienda un conocimiento previos en ROS, pero no es obligatorio.
+Se requiere un título de Ingeniero. En caso de no contar esta formación, se puede aportar experiencia profesional en el campo de la Ingeniería. Conocimientos de programación en Python/C++ y entorno Linux. **Se recomienda un conocimiento previos en ROS, pero no es obligatorio.**
 
 En el caso de que el número de solicitudes supere el de plazas ofertadas se realizará una selección en función de los siguientes criterios: **Entrevista personal**.
 
