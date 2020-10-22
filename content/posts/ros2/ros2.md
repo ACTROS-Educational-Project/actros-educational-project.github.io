@@ -71,7 +71,7 @@ Habrá 4 profesores más de apoyo para asistir de manera individualizada a los a
 * **Modalidad:** Presencial.
 * **Nº de Créditos:** 1.6.
 * **Horas Presenciales:** 16.
-* **Lugar de Impartición:** Laboratorio de Robótica (3104) ETSIT, Campus de Fuenlabrada.
+* **Lugar de Impartición:** [Laboratorio de Robótica (3104) ETSIT, Campus de Fuenlabrada.](https://goo.gl/maps/i8Xwoqp7cSaWrJmV7)
 * **Horario:** 17:00-21:00.
 * **Fecha de inicio y de finalización:**
     
