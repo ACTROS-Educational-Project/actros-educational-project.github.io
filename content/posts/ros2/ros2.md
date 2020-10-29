@@ -8,6 +8,8 @@ created: 2020-07-08
 updated: 2020-10-20
 ---
 
+<img src="ros2.jpg">
+
 ## Nombre del Plan de Estudios
 
 Curso Superior Universitario en Programación de Robots con ROS2

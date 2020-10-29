@@ -8,6 +8,8 @@ created: 2020-07-09
 updated: 2020-10-19
 ---
 
+<img src="ros.jpg">
+
 ## Nombre del Plan de Estudios
 
 Curso Superior Universitario en Programación de Robots con ROS

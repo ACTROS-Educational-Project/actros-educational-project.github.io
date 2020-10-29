@@ -8,6 +8,8 @@ created: 2020-07-06
 updated: 2020-10-19
 ---
 
+<img src="perception.png">
+
 ## Descripción
 
 Los sensores son una fuente de datos muy importante para los robots. Gracias a ellos, pueden reconocer su entorno y obtener información muy valiosa sobre él.
