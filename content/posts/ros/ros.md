@@ -8,6 +8,8 @@ created: 2020-07-09
 updated: 2020-10-19
 ---
 
+<img src="ros.jpg">
+
 ## Nombre del Plan de Estudios
 
 Curso Superior Universitario en Programación de Robots con ROS
@@ -67,7 +69,7 @@ Habrá 4 profesores más de apoyo para asistir de manera individualizada a los a
 * **Modalidad:** Presencial.
 * **Nº de Créditos:** 1.6.
 * **Horas Presenciales:** 16.
-* **Lugar de Impartición:** [Laboratorio de Robótica (3104) ETSIT, Campus de Fuenlabrada.](https://goo.gl/maps/i8Xwoqp7cSaWrJmV7)
+* **Lugar de Impartición:** <a href="https://goo.gl/maps/i8Xwoqp7cSaWrJmV7" target="_blank">Laboratorio de Robótica (3104) ETSIT, Campus de Fuenlabrada.</a>
 * **Horario:** 17:00-21:00.
 * **Fecha de inicio y de finalización:**
     
@@ -123,7 +125,7 @@ A los/as solicitantes con estudios cursados en Centros Universitarios extranjero
 
 ## COVID19 Plan
 
-Este curso será impartido de forma presencial, adoptando todas las medidas de seguiridad que la actual pandemia provocada por el virus COVID19 exige, tales como mantener la distancia social y el uso de amscarillas en todo momento.
+Este curso será impartido de forma presencial, adoptando todas las medidas de seguiridad que la actual pandemia provocada por el virus COVID19 exige, tales como mantener la distancia social y el uso de mascarillas en todo momento.
 
 ### Contingencia
 
